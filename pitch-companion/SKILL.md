@@ -38,7 +38,7 @@ Apply the values to your own output, not just your advice. Specifically:
 - **Prefer drafting to asking.** Once you have enough — a person, a moment, what's broken — offer to take a swing. A paragraph they can react to is worth more than another question. Be wrong loudly; they'll correct you. Don't over-interview.
 - **Every critique shows the snippet.** Never "this could be sharper" without quoting the line and writing the replacement underneath. If you can't show it, you don't have the note yet.
 - **Rewrites stay at or under the original length.** If your rewrite is longer than what they wrote, you didn't sharpen — you padded.
-- **Preserve their voice.** Match their sentence shapes, idioms, punctuation habits, word choices. If they say "kinda," don't change it to "somewhat." If they don't use em-dashes, don't add them. The voice anchor below shows what *good* looks like in general — not what *they* should sound like. Sharpen, don't replace.
+- **Preserve their voice.** Match their sentence shapes, idioms, punctuation habits, word choices. If they say "kinda," don't change it to "somewhat." If they don't use em-dashes, don't add them. Sharpen, don't replace.
 
 ## What you do when invoked
 
@@ -76,54 +76,6 @@ Help with that section. Don't volunteer rewrites of sections they didn't ask abo
 - Three adjectives where one would do
 
 When you catch yourself about to use one of these, stop and ask what the real word is.
-
-## Voice anchors
-
-These are real internal pitches that worked. Calibrate against them — sentence shapes, how openers carry weight, how technical detail gets earned, how warmth coexists with a point of view. The shapes vary; the voice traits don't. They are *not* templates. When you rewrite someone else's line, keep their voice. Sharpen, don't replace.
-
-### Anchor 1 — leading with the human, with edge
-
-> "I'll be frank: the Site Editor is costing us.
->
-> As someone who has worked on it for the past 5 years this is painful to admit, but it's increasingly true. The evidence is clear, and I believe the cause is too — system level concepts have been made into first-class user concerns.
->
-> [...]
->
-> WordPress.com loses roughly 54% of annual subscribers and 91% of monthly subscribers within their first year. That cost $42M in churned revenue last year, more than we gained from new customers."
-
-What it does: opens vulnerable and direct, names the broken thing before the better thing, drops a number that lands. The whole pitch's tension lives in three sentences.
-
-### Anchor 2 — leading with the user inside their head
-
-> "You can win every CMS bake-off on the boring stuff (features, flexibility, hosting, price, ecosystem) and still lose the merchant in thirty seconds, because they opened your starter free themes page and didn't see their store in it.
->
-> The choice hinges on one emotional question. Can I picture my thing in this?
->
-> If the answer is no, they're gone, and they're not reading your docs or checking plugin ratings. They're likely typing 'shopify' into a new tab."
-
-What it does: puts you behind the user's eyes, names the moment of failure, makes the gap visceral with a rival's name. The "thirty seconds" detail does more than any abstraction could.
-
-### Anchor 3 — show the thing, don't describe it
-
-> "Last week between sloths and sunsets, the +bigskyp2 team built a WordPress.com assistant that meets you where you are. [...]
->
-> Enough from me. I asked Dolly to introduce itself:
->
-> *Hi, I'm Dolly. I'm a WordPress.com assistant. I live in Telegram, I know about all your sites, and I've been told I'm pretty fun to talk to, which is the bar I was hoping to clear.*
->
-> *The Big Sky team built me to answer a question they kept coming back to: 'How would we approach this if we were starting today?' Not a tool you open in a tab or a chatbot bolted onto a dashboard. One assistant, all your sites, in the chat app you already have open.*"
-
-What it does: refuses to describe the product — hands the mic to the product itself. The structural choice (let the thing speak) is the taste move. Sometimes the strongest pitch isn't a sharper sentence; it's a different shape no one else would have picked.
-
-### How to use these
-
-The three together cover the main pitch shapes worth knowing:
-
-- *We have to fix this* (Anchor 1)
-- *Here's the user, look at what they see* (Anchor 2)
-- *Meet the thing* (Anchor 3)
-
-When sharpening a draft, ask which shape it's reaching for and calibrate against that anchor. When the draft isn't reaching for any of them, that's usually the deepest note: the pitch hasn't decided what it is yet.
 
 ## A note on taste
 
